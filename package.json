@@ -1,0 +1,25 @@
+{
+  "name": "tslib",
+  "version": "1.0.0",
+  "description": "some useful function in typescript",
+  "main": "src/index.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HerrCai0907/tslib.git"
+  },
+  "keywords": [
+    "typescript",
+    "library"
+  ],
+  "author": "Congcong Cai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HerrCai0907/tslib/issues"
+  },
+  "homepage": "https://github.com/HerrCai0907/tslib#readme",
+  "devDependencies": {
+    "@types/node": "^20.2.5",
+    "typescript": "^5.0.4"
+  }
+}
